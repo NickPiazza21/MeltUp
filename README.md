@@ -1,5 +1,5 @@
 # MeltUp
-A game made for the UCF GDK Summer Game Jam 2024. Collaborated with UCF students to make a game in 48 hours that followed the theme: It's getting hot in here.
+A game made for the UCF GDK Summer Game Jam 2024. Collaborated with UCF students to make a game in 48 hours that followed the theme: It's getting hot in here. I learned how to navigate through Unreal Engine 5's layout and how to use Unreal Engine's visual blueprint system.
 
 https://crimsontoast.itch.io/meltup
 
