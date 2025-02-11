@@ -3,7 +3,7 @@ https://crimsontoast.itch.io/meltup
 
 A 3D, platformer game made for the UCF GDK Summer Game Jam 2024. Collaborated with UCF students to make a game in 48 hours that followed the theme: It's getting hot in here. 
 You play as an ice cube that is trying to get back to its original ice cooler before it melts from being in the hot sun.
-I learned how to navigate through Unreal Engine 5's layout and how to use Unreal Engine's visual blueprint system.
+I learned about Unreal Engine 5's GUI and how to use Unreal Engine's visual blueprint system.
 
 *BUGS:*
 - The mouse does not show up in the start menu, so you will have to use the tab and enter button to navigate and click the buttons, respectively.
